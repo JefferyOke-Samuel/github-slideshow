@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Im jeffery
+A javascript developer
+and this is me
+learning how to use
+GIT!
